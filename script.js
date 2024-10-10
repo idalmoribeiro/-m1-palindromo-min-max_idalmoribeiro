@@ -27,9 +27,9 @@ function isPalindrome(texto){
     console.log(saida4);    
 
     if(saida3 == saida4){
-        return `true`;
+        return true;
     }
-    return `false`; 
+    return false; 
 
 }
 
